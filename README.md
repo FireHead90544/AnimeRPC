@@ -24,7 +24,7 @@
 
 ### Installation
 
-The simplest way to install `AnimeRPC` is to download the pre-built release (windows only) from here: [Download Latest Release].(https://github.com/FireHead90544/AnimeRPC/releases/latest)
+The simplest way to install `AnimeRPC` is to download the pre-built release (windows only) from here: [Download Latest Release](https://github.com/FireHead90544/AnimeRPC/releases/latest).
 
 - Linux/Mac users need to build the binaries themselves, clone the repo, create a virtualenv (recommended but optional), install the requirements. Run the below command to build the binary. The output would be in `dist/` directory. [Optionally, instead of `--onefile` flag you can use `--onedir` for faster app launch.]
 
