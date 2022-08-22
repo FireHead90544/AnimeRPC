@@ -42,7 +42,7 @@ jobs:
           - os: windows-latest
             TARGET: windows
             CMD_BUILD: pyinstaller --onefile --noconfirm --console --name AnimeRPC --icon logo.ico rpc.py
-            OUT_FILE_NAME: PWRpc.exe
+            OUT_FILE_NAME: AnimeRPC.exe
             ASSET_MIME: application/vnd.microsoft.portable-executable
     steps:
     - uses: actions/checkout@v1
