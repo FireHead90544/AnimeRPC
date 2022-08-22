@@ -1,0 +1,6 @@
+InquirerPy
+pypresence
+pyinstaller
+colorama
+requests
+bs4
