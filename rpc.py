@@ -91,4 +91,3 @@ while True:
         print(f"{Fore.GREEN} >>> Closed Rich Presence :)")
         time.sleep(1)
         break
-exit()
